@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wdongo.github.io/ZCr/sitemap.ZCr.gz
